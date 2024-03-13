@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: chengzhx76@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengzhx76&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengzhx76&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengzhx76&hide=contribs,issues&show_icons=true)
