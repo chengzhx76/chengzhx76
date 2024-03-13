@@ -10,8 +10,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I'm looking for like-minded friends to work with
-- 📚 I’m currently learning AIGC
-- 🌱 I’m use Java, GoLang, Python, JavaScript, CSS, and HTML languages for development
+- 🌱 I’m currently learning AIGC
+- 🌱 I’m use Java, GoLang, JavaScript ... languages for development
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: chengzhx76@gmail.com
 
