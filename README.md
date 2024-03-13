@@ -11,9 +11,8 @@ Here are some ideas to get you started:
 
 - 🔭 I'm looking for like-minded friends to work with
 - 🌱 I’m currently learning AIGC
-- 🌱 I’m use Java, GoLang, JavaScript ... languages for development
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: chengzhx76@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengzhx76&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengzhx76&hide=contribs&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengzhx76&layout=compact)
